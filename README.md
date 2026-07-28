@@ -133,7 +133,7 @@ This project is developed for learning and practicing Python programming concept
 # 👨‍💻 connect to me :
 
 linkedin : www.linkedin.com/in/nisha-sonkusre-283526415
-E-mail : nishasonkusre07@gamil.com
+Gmail id : nishasonkusre07@gamil.com
 ---
 
 # 🌟 Thank You
