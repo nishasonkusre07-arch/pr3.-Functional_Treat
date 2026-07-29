@@ -129,6 +129,8 @@ This project is developed for learning and practicing Python programming concept
 
 ## Explanation video :
 
+https://drive.google.com/file/d/1tNWo72H7bANtXSMb_EWsjlxXg7ZEoQfB/view?usp=sharing
+
 
 # 👨‍💻 connect to me :
 
